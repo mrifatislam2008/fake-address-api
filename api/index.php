@@ -323,7 +323,6 @@ sendJson([
     'country_code' => $country['nat'],
     'results_count' => count($data),
     'data' => $data,
-    'powered_by' => 'Molla Mohammad Rifat Osama',
-    'Telegram' => '@Molla_Mohammad_Rifat_Osama',
+    'powered_by' => 'Fake Address API',
     'notice' => 'Profiles are fictional. Coordinates are approximate and are not verified street locations.'
 ]);
